@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm Mauro Francisco dos Santos</h1>
 <h3 align="center">A Desktop Developer becoming a Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mauro-FS" alt="Mauro-FS" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maurofsdev" alt="maurofsdev" /> </p>
 <!--
-**Mauro-FS/Mauro-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maurofsdev/maurofsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
